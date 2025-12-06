@@ -285,6 +285,18 @@
                 "outbound": "GLOBAL"
             },
             {
+                "domain": [
+                    "clash.razord.top",
+                    "yacd.metacubex.one",
+                    "yacd.haishan.me",
+                    "d.metacubex.one"
+                ],
+                "domain_suffix": [
+                    "zeabur.app"
+                ],
+                "outbound": "🎯 全球直连"
+            },
+            {
                 "rule_set": "geosite-ai",
                 "outbound": "🧠 AI"
             },
